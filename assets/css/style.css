@@ -1,0 +1,68 @@
+body{
+  background:url("../images/traintwo.jpg");
+  
+  background-size: 100%;
+}
+.title{
+  color: white;
+  text-align: center;
+  font-family: 'Abril Fatface', cursive;
+  background:rgba(0,0,0,0.5);
+  text-shadow: 12px 12px 10px black;
+  box-shadow: 10px 10px 20px black;
+}
+
+th{
+  text-shadow: 12px 12px 10px black; 
+}
+
+h3{
+  text-align: center;
+  font-size: 30px;
+  background-color: red;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-weight: bold;
+  background:rgba(0,0,0,0.5);
+  text-shadow: 12px 12px 10px black;
+  box-shadow: 10px 10px 20px black;
+}
+
+.panel-body{
+  border:5px grey solid;
+  border-style: groove;
+  background:rgba(0,0,0,0.5);
+  text-shadow: 12px 12px 10px black;
+  box-shadow: 10px 10px 20px black;
+}
+.current ,.add{
+ 
+  color:black;
+  font-size:20px;
+  text-shadow: 12px 12px 10px black;
+}
+#trainTable{
+  color:white;
+  font-size:20px;
+  font: bold;
+  background:rgba(0,0,0,0.5);
+  text-shadow: 12px 12px 10px black;
+  box-shadow: 10px 10px 20px black;
+}
+#trainNameInput,#destinationInput,#timeInput,#frequencyInput{
+  color:white;
+  font-size:18px;
+  text-shadow: 12px 12px 10px black;
+ 
+}
+.form-group{
+  color: black;
+  font-size:20px;
+}
+.btn{
+  background-color: red;
+  border-style: groove;
+  font-size:20px;
+  margin-left: 42%;
+}
